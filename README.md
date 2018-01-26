@@ -1,5 +1,5 @@
 # PCfB
 PCfB course
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/Codecov.png)
 Format: ![Alt Text](url)
