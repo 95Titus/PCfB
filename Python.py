@@ -1,3 +1,8 @@
 #!/usr/bin/env python
+# encoding: utf-8
 
-print "Hello world!"
+def main():
+    return 'Hello World!'
+
+if __name__ == '__main__':
+    main()
